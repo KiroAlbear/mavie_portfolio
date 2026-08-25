@@ -7459,6 +7459,13 @@ h1, h2, h3, h4, h5,
   -webkit-transition: all 0.5s ease;
   -ms-transition: all 0.5s ease;
   transition: all 0.5s ease; }
+
+.videography-page,
+.videography-page #colorlib-page,
+.videography-page #colorlib-main,
+.videography-page .ftco-section-2,
+.videography-page .photograhy {
+  background-color: #000000; }
   @media (min-width: 992px) {
     #colorlib-main {
       width: 75%; } }

@@ -1513,6 +1513,14 @@ textarea.form-control {
 	box-shadow: none;
 }
 
+.videography-page,
+.videography-page #colorlib-page,
+.videography-page #colorlib-main,
+.videography-page .ftco-section-2,
+.videography-page .photograhy {
+	background-color: $black;
+}
+
 #ftco-loader.fullscreen .circular {
 	position: static;
 }
