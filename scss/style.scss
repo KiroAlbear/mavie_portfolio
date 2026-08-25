@@ -231,6 +231,22 @@ h1, h2, h3, h4, h5,
 				}
 			}
 		}
+		.sidebar-phones {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			gap: 4px;
+			margin: 10px 0 0;
+			font-size: 12px;
+			white-space: nowrap;
+			color: rgba(255,255,255,.7);
+			a {
+				color: rgba(255,255,255,.85);
+				&:hover, &:focus {
+					color: $primary;
+				}
+			}
+		}
 	}
 }
 
